@@ -1,0 +1,6 @@
+# What is Progaramming?
+
+1. Programming is a collaboration between humans and computers.
+2. Programming refers to a technological process for telling a computer which tasks to perform in order to solve problems.
+3. Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks
+3. A programming language is a set of instructions and syntax used to create software programs.
